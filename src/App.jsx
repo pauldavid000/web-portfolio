@@ -1,8 +1,8 @@
 import './App.css'
-import Navbar from './components/navbar'
-import Hero from './components/hero'
+import Navbar from './components/Navbar'
+import Hero from './components/Hero'
 import About from './components/About'
-import Skills from './components/skills'
+import Skills from './components/Skills'
 import Projects from "./components/Projects";
 import Education from './components/Education'
 import CVUpload from './components/CVUpload'
