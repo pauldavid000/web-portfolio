@@ -8,3 +8,4 @@
 .about__info-label { display: block; font-size: 0.75rem; color: var(--text-muted); text-transform: uppercase; }
 .about__info-value { font-size: 0.9rem; color: var(--text-light); font-weight: 500; }
 @media (max-width: 768px) { .about__grid { grid-template-columns: 1fr; } }
+
