@@ -5,13 +5,13 @@
     import Skills    from './components/Skills.'
     import Projects  from './components/Projects'
     import Education from './components/Education'
-    import CVUpload  from './components/CVUpload.'
+    import CVUpload  from './components/CVUpload'
     import Contact   from './components/Contact'
     import Footer    from './components/Footer'
     
     // UPDATE THIS WITH YOUR OWN INFORMATION
     const portfolioData = {
-      name:     'Amara Okafor',                    // Your name
+      name:     'Amogu Paul',                    // Your name
       title:    'Frontend Developer & UI Designer', // Your job title
       bio:      'I build beautiful, responsive web experiences.',
       email:    'amara@example.com',
