@@ -3,7 +3,7 @@ import Navbar from './components/navbar'
 import Hero from './components/hero'
 import About from './components/About'
 import Skills from './components/skills'
-import Projects from './components/project'
+import Projects from "./components/Projects";
 import Education from './components/Education'
 import CVUpload from './components/CVUpload'
 import Contact from './components/Contact'
