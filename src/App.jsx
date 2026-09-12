@@ -1,13 +1,13 @@
-    import './App.css'
-    import Navbar    from './components/Navbar'
-    import Hero      from './components/Hero'
-    import About     from './components/About'
-    import Skills    from './components/Skills.'
-    import Projects  from './components/Projects'
-    import Education from './components/Education'
-    import CVUpload  from './components/CVUpload'
-    import Contact   from './components/Contact'
-    import Footer    from './components/Footer'
+import './App.css'
+import Navbar from './components/navbar'
+import Hero from './components/hero'
+import About from './components/About'
+import Skills from './components/skills'
+import Projects from './components/project'
+import Education from './components/Education'
+import CVUpload from './components/CVUpload'
+import Contact from './components/Contact'
+import Footer from './components/Footer'
     
     // UPDATE THIS WITH YOUR OWN INFORMATION
     const portfolioData = {
